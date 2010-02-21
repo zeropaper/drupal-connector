@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: connector.views.inc,v 1.1 2010/02/21 10:56:10 voxpelli Exp $
 
 /**
  * @file

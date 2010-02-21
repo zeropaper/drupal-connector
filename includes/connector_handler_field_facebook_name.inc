@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: connector_handler_field_facebook_name.inc,v 1.1 2010/02/21 10:56:10 voxpelli Exp $
 /**
  * Field handler to provide simple renderer that allows using a themed user link
  */

@@ -1,4 +1,4 @@
-; $Id$
+; $Id: connector.info,v 1.1 2010/02/21 10:56:09 voxpelli Exp $
 name = Connector
 description = Provides base functionality for one-click login with eg. Facebook Connect and Twitter Connect
 core = 6.x
