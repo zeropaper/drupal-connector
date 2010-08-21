@@ -1,5 +1,5 @@
 <?php
-// $Id$
+// $Id: connector.api.php,v 1.1.2.1 2010/08/21 21:07:06 voxpelli Exp $
 
 /**
  * @file

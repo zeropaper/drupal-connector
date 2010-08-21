@@ -1,4 +1,4 @@
-// $Id: CHANGELOG.txt,v 1.1 2010/02/21 10:56:09 voxpelli Exp $
+// $Id: CHANGELOG.txt,v 1.1.2.1 2010/08/21 21:07:06 voxpelli Exp $
 
 Connector 6.x-1.0-alpha1, 2010-08-21
 ------------------------------
